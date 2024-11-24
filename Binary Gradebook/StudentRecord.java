@@ -1,19 +1,7 @@
-////////////FILE HEADER(INCLUDE IN EVERY FILE)////////////////
-//
-// Title: Binary Gradebook
-// Course: CS300 Spring 2024
-//
+
+// Title: Student Record
 // Author: Heet Joshi
 // Email: hjoshi6@wisc.edu
-// Lecturer: Mouna Kacem
-//
-////////////////// ASSISTANCE/HELP CITATIONS//////////////
-//
-// Person: No help taken
-// Online sources: No help taken
-//
-//////////////////////////////////////////////////////////////////
-
 
 /**
  * Represents a student record with a name, email, and grade.
