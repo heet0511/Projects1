@@ -1,29 +1,7 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
+
 // Title:    Task Manager
-// Course:   CS 300 Spring 2024
-//
-// Author:   Samyak Jain
-// Email:    sjain252@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name:    Heet Divyesh Joshi
-// Partner Email:   hjoshi6@wisc.edu
-// Partner Lecturer's Name: Mouna Kacem
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-//   __X_ Write-up states that pair programming is allowed for this assignment.
-//   __X_ We have both read and understand the course Pair Programming Policy.
-//   __X_ We have registered our team prior to the team registration deadline.
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// Persons:         None
-// Online Sources:  None
-//
-///////////////////////////////////////////////////////////////////////////////
+// Author:   Heet Divyesh Joshi
+// Email:    hjoshi6@wisc.edu
 
 import java.util.NoSuchElementException;
 
