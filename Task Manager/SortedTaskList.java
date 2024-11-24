@@ -1,5 +1,5 @@
 
-// Title:    Task Manager
+// Title:    Sorted task list
 // Author:   Heet Divyesh Joshi
 // Email:    hjoshi6@wisc.edu
 
