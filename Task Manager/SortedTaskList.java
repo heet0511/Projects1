@@ -1,5 +1,5 @@
 
-// Title:    Sorted task list
+// Title:    Sorted Task List
 // Author:   Heet Divyesh Joshi
 // Email:    hjoshi6@wisc.edu
 
