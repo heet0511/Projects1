@@ -1,5 +1,5 @@
 
-// Title:    Task Manager
+// Title:    Task List
 // Author:   Heet Divyesh Joshi
 // Email:    hjoshi6@wisc.edu
 
